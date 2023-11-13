@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://gorest.co.in/public/v2/",
+  "token": "6e22d8a3cc66f96ed6da5fcbd84c75e68177cba20b1ec167d32f7dc47c7b167c",
+  "baseFilePathTestDataSchema": "src/test/resources/test_data/"
+}
